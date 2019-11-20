@@ -15,7 +15,7 @@ Once you have cloned this repo, you may proceed to the labs.
      ~/chapter-15 (master)$ ls
      ...
 
-Create a solutions directory for your exercise solutions, in the chapter-12 directory.
+Create a solutions directory for your exercise solutions, in the chapter-15 directory.
       
      ~/chapter-15 (master)$ mkdir solutions
       
